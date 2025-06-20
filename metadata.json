@@ -1,0 +1,6 @@
+{
+  "name": "Xgpt Chatbot",
+  "description": "A Gemini-powered chatbot with a sleek, modern interface, designed to provide comprehensive answers and engage in text-based conversations.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
